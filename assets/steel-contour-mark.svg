@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Сварочная маска Steel Contour</title>
+  <g fill="none" stroke="#f79839" stroke-linecap="square" stroke-linejoin="miter" stroke-width="4">
+    <path d="M18 8h24l7 10v25L39 55H25L15 43V18z"/>
+    <path d="M22 20h20v15H22z"/>
+    <path d="M18 12 12 18v11M46 12l6 6v11"/>
+    <path d="m44 45 4-5 1 7 6-3-3 6 7 2-7 2 2 6-6-4-3 5-1-7-6 2 4-6-6-3z"/>
+    <path d="M53 55h9"/>
+  </g>
+</svg>
